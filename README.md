@@ -27,8 +27,7 @@ The project adopts the Mobile First methodology, focusing on designing for small
 
 ### Viewing the Website
 
-To experience the Responsive Christmas Website, you can watch the project demo on YouTube:
-
+To experience the Responsive Christmas Website, you can click:
 [Demo](https://ychen463.github.io/xmas-frontend/)
 
 ### License
