@@ -12,6 +12,7 @@ A festive and interactive Responsive Christmas Website designed using HTML, CSS,
 - **Elegant User Interface:** A visually appealing design that embodies the spirit of Christmas.
 
 ![Website Preview](/preview.png)
+![Website Preview(Mobile)](/mobileScreen.png)
 
 ### Technologies Used
 
