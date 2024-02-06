@@ -10,8 +10,9 @@ A festive and interactive Responsive Christmas Website designed using HTML, CSS,
 - **Snow Animation:** Adds a winter wonderland effect with falling snow animation.
 - **Cross-Device Compatibility:** Fully responsive and tested for compatibility across various devices and screen sizes.
 - **Elegant User Interface:** A visually appealing design that embodies the spirit of Christmas.
-
+### Fullscreen
 ![Website Preview](/preview.png)
+### Mobile
 ![Website Preview(Mobile)](/mobileScreen.png)
 
 ### Technologies Used
